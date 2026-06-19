@@ -56,6 +56,8 @@ The code is organized categorically by paradigm to ensure clean navigation:
 * **Statistical Feature Selection:**
   * Quantifying linear relationships using **Pearson Correlation Coefficients** (`pearsonr`) explicitly mapping independent feature influences against the target column (`Cost`).
 
+### Dataset
+1. Insurance.csv - kaggle
 ---
 
 ## Connect with Me
