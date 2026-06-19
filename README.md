@@ -15,7 +15,7 @@ The primary focus of this repository is transforming raw data into optimized, pr
 
 ---
 
-###"This project is strictly for educational purposes only using public Kaggle data. It is not intended for clinical use , medical diagnosis or any commercial use."
+### "This project is strictly for educational purposes only using public Kaggle data. It is not intended for clinical use , medical diagnosis or any commercial use."
 
 ## Repository Structure
 
